@@ -1,0 +1,7 @@
+[package]
+name = "mlir-capi"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+llvm-capi = { git = "https://github.com/lijinpei/llvm-capi-rs.git" }
